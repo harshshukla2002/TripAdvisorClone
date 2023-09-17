@@ -59,10 +59,8 @@
 
 # Technology used
 
-- React.js
+- HTML
 - JavaScript
-- Chakra Ui
-- JSX
 - CSS
 - Git & GitHub
 
